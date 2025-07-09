@@ -1,0 +1,12 @@
+JoinCounter/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── me/
+│       │       └── twojpakiet/
+│       │           └── JoinCounter.java
+│       └── resources/
+│           └── plugin.yml
+├── build.gradle   <- lub pom.xml
+├── settings.gradle
+├── README.md
